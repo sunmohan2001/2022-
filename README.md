@@ -5,3 +5,6 @@
 特征提取丨共空间模式 (CSP)：https://blog.csdn.net/MissXy_/article/details/81264953 
 ## 脑电信号生成：
 论文：基于 WaveGAN 的脑电信号生成方法研究 郭特
+## 数据
+运动想象类数据：https://blog.51cto.com/u_6811786/4969679 
+脑电信号公开数据：https://blog.51cto.com/u_6811786/4933870 
